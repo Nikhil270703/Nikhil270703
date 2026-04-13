@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Nikhil270703
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Nikhil270703/Nikhil270703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Nikhil270703 (Nikhil Raghuwanshi)
+- 👀 I’m interested in Applied Artificial Intelligence, Natural Language Processing, and LegalTech.
+- 🌱 I’m currently learning advanced Deep Learning techniques and Explainable AI (SHAP).
+- 💞️ I’m looking to collaborate on Open Source Legal AI tools and Computer Vision projects.
+- 📫 How to reach me: nraghuvanshi100@gmail.com or via my portfolio (https://v0-developer-portfolio-website-mauve.vercel.app/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I led a team to secure a Top 5 national ranking at the VOIS Innovation Marathon 2.0!
