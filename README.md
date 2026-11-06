@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Raghuwanshi;AI%2FML+Engineer+%C2%B7+Full-Stack+Developer;Founder+of+Nexvhira" alt="Hi, I'm Nikhil Raghuwanshi. AI/ML Engineer and Full-Stack Developer. Founder of Nexvhira." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&height=42&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Raghuwanshi;AI%2FML+Engineer+%C2%B7+Full-Stack+Developer;Founder+of+Nexvhira" alt="Hi, I'm Nikhil Raghuwanshi. AI/ML Engineer and Full-Stack Developer. Founder of Nexvhira." />
 
 **B.Tech Computer Science & Engineering (AI)** · Nutan College of Engineering and Research, Pune · Class of 2026
 
-<a href="https://nikhilraghuwanshi.live"><img src="https://img.shields.io/badge/Portfolio-nikhilraghuwanshi.live-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://nexvhira.vercel.app/"><img src="https://img.shields.io/badge/Start--up-Nexvhira-111827?style=for-the-badge&logo=rocket&logoColor=white" alt="Nexvhira" /></a>
-<a href="https://www.linkedin.com/in/nikhil-raghuwanshi-8a7704259/"><img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Raghuwanshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nraghuvanshi100@gmail.com"><img src="https://img.shields.io/badge/Email-nraghuvanshi100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://nikhilraghuwanshi.live"><img src="https://img.shields.io/badge/Portfolio-nikhilraghuwanshi.live-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="22" /></a>
+<a href="https://nexvhira.vercel.app/"><img src="https://img.shields.io/badge/Start--up-Nexvhira-111827?style=for-the-badge&logo=rocket&logoColor=white" alt="Nexvhira" height="22" /></a>
+<a href="https://www.linkedin.com/in/nikhil-raghuwanshi-8a7704259/"><img src="https://img.shields.io/badge/LinkedIn-Nikhil%20Raghuwanshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="22" /></a>
+<a href="mailto:nraghuvanshi100@gmail.com"><img src="https://img.shields.io/badge/Email-nraghuvanshi100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="22" /></a>
 
 <a href="https://leetcode.com/u/nick_27/"><img src="https://img.shields.io/badge/LeetCode-nick__27-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 <a href="https://www.hackerrank.com/profile/nraghuvanshi100"><img src="https://img.shields.io/badge/HackerRank-SQL%20(Advanced)-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
@@ -44,11 +44,11 @@
 
 | | |
 |:--|:--|
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts&theme=dark" height="40" alt="Python, Java, C++, C, JavaScript, TypeScript" /> |
-| **AI & ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" height="40" alt="TensorFlow, PyTorch, scikit-learn, OpenCV" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="40" alt="React, Next.js, Tailwind CSS, HTML, CSS" /> |
-| **Backend & data** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase&theme=dark" height="40" alt="Node.js, Express, MongoDB, MySQL, Supabase" /> |
-| **Tools & cloud** | <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" height="40" alt="Git, GitHub, Vercel, VS Code" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts&theme=dark" height="30" alt="Python, Java, C++, C, JavaScript, TypeScript" /> |
+| **AI & ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" height="30" alt="TensorFlow, PyTorch, scikit-learn, OpenCV" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="30" alt="React, Next.js, Tailwind CSS, HTML, CSS" /> |
+| **Backend & data** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase&theme=dark" height="30" alt="Node.js, Express, MongoDB, MySQL, Supabase" /> |
+| **Tools & cloud** | <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" height="30" alt="Git, GitHub, Vercel, VS Code" /> |
 
 **Also:** Hugging Face (InLegalBERT) · Keras · Pandas · NumPy · Streamlit · Java Swing · Power BI · IBM Watson Studio
 
