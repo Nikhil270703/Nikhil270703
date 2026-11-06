@@ -4,7 +4,7 @@
 
 **B.Tech Computer Science & Engineering (Artificial Intelligence)** · Nutan College of Engineering and Research, Pune · Class of 2026
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nikhilraghuwanshi.me-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nikhilraghuwanshi.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nikhilraghuwanshi.live-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nikhilraghuwanshi.live)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil%20Raghuwanshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-raghuvanshi-8a7704259/)
 [![Email](https://img.shields.io/badge/Email-nraghuvanshi100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nraghuvanshi100@gmail.com)
 
@@ -19,7 +19,7 @@
 
 ### 🧑‍💻 About me
 
-- 🔭 I build **AI and full-stack products for real users**: legal-judgment prediction, a bilingual app for a local flour mill, a college ERP and an institute-management platform.
+- 🔭 I build **AI and full-stack products for real users**: legal-judgment prediction, the live **Tammewar Pharmacy** system, the **AuraEdu** institution suite and a bilingual app for a local flour mill.
 - 🧠 Interested in **Applied AI, Natural Language Processing and LegalTech**.
 - 🌱 Currently learning **advanced deep learning** and **Explainable AI (SHAP)**.
 - 💼 Former **Java Application Developer Intern** at MRND Lab Pvt. Ltd. (Jan – Mar 2024).
@@ -36,8 +36,8 @@
 |---|---|---|
 | ⚖️ **[AI for Legal Case Outcome Prediction](https://github.com/Nikhil270703/AI-For-legal-case-outcome-prediction)** | Predicts appellate outcomes from Indian court judgments with fine-tuned InLegalBERT (**85.2% accuracy**, +23.2 pts over a TF-IDF + SVM baseline), translates IPC sections to the new BNS code (80+ mappings), role-based access for Student / Lawyer / Judge / Admin | Python · PyTorch · Hugging Face · Streamlit · Supabase |
 | 🌾 **[Flour Mill Manager](https://github.com/Nikhil270703/Feed-Mill-Management-System)** | मराठी / English orders, payments and dues (उधारी) app: owner console + installable mobile customer portal with UPI QR, Argon2id, CSRF, audit log and 2FA | Next.js 16 · TypeScript · MongoDB · Zod · Tailwind |
-| 🏫 **[College ERP & Stock Suite](https://github.com/Nikhil270703/medical_stock_system)** · [live](https://medical-stock-system.vercel.app) | ~50 screens: admissions, documents, hall tickets, bills, purchases, vendors and stock; Razorpay payments, PDF/Excel exports, WhatsApp alerts | React · Vite · Express · MongoDB · JWT |
-| 🎓 **[MyEdou](https://github.com/Nikhil270703/CoachingPOC)** | Institution-management platform: attendance, batches, admissions, timed auto-graded tests, 10-tab finance module with audit trail | Next.js 16 · React 19 · TypeScript · MongoDB |
+| 💊 **[Tammewar Pharmacy](https://tammewar-pharmacy.pages.dev/)** · [code](https://github.com/Nikhil270703/medical_stock_system) | Live pharmacy back office: medicine stock, purchases, PDF bills, customer dues, home deliveries and bilingual WhatsApp reminders; 14 modules with admin, staff, driver and customer portals | React · Vite · Express · MongoDB · JWT |
+| 🎓 **[AuraEdu](https://aura-edu-eight.vercel.app/)** · [code](https://github.com/Nikhil270703/AuraEdu) | Live institution management suite for coaching centres, schools and colleges: admissions, attendance, proctored tests, fees and payroll; 25+ working modules in the demo | Next.js · React · TypeScript · MongoDB |
 | 🤖 **[Machine Learning Projects](https://github.com/Nikhil270703/Machine-Learning-Projects)** | Cat vs Dog CNN, SMS spam classifier, health-cost regressor and KNN book recommender (freeCodeCamp ML certification) | TensorFlow · Keras · scikit-learn |
 
 ---
@@ -67,7 +67,7 @@
 | 🏅 | Performance Evaluation with ML · Cyber Security · Blockchain · Smart Contracts · Power BI | VOIS (Vodafone Idea Foundation) |
 | 🏅 | All practice problems, 500 difficulty rating | CodeChef |
 
-➡️ All 19 certificates are viewable on my **[portfolio](https://nikhilraghuwanshi.me/#certifications)**.
+➡️ All 19 certificates are viewable on my **[portfolio](https://nikhilraghuwanshi.live/#certifications)**.
 
 ---
 
@@ -85,6 +85,6 @@
 
 <div align="center">
 
-**📫 Let's connect:** [nraghuvanshi100@gmail.com](mailto:nraghuvanshi100@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nikhil-raghuvanshi-8a7704259/) · [Portfolio](https://nikhilraghuwanshi.me)
+**📫 Let's connect:** [nraghuvanshi100@gmail.com](mailto:nraghuvanshi100@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nikhil-raghuvanshi-8a7704259/) · [Portfolio](https://nikhilraghuwanshi.live)
 
 </div>
